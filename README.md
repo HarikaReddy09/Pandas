@@ -1,2 +1,1 @@
-# IPL-DataSet-Analysis-
-IPL Dataset Analysis using Numpy ans Matplotlib library
+Pandas is a Python Library used for worlking wth sets.It has functions for analyzing,cleaning,exploring and Manipulating the data.
